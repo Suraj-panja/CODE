@@ -1,0 +1,20 @@
+{
+    "bulk_energies": {
+
+        "Cu": -1.470008697358702,
+        "CO": 0.23,
+        "CuCO" : 2.14
+
+    },
+    "stoidict": {
+        "Cu": 0.49995161381315867,
+        "CO": 0.68,
+        "offset": -0.324476454433157
+    },
+    "stoics": {
+        "Cu": 1,
+        "CO" : 1
+         },
+    "ref_formula": "CuCO",
+    "ref_element": "Cu"
+}
